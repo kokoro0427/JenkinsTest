@@ -6,9 +6,9 @@
 
 本リポジトリでは以下のことを行います。
 
-・Git自体の練習
-・Jenkinsによる自動ビルド
-・GoogleTestによる自動テスト
-・Sphinxによる自動ドキュメント生成
+|・Git自体の練習
+|・Jenkinsによる自動ビルド
+|・GoogleTestによる自動テスト
+|・Sphinxによる自動ドキュメント生成
 
 
